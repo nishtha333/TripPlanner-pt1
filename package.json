@@ -1,0 +1,21 @@
+{
+  "name": "TripPlanner-pt1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "mapbox-gl": "^0.47.0",
+    "webpack": "^4.16.4",
+    "webpack-cli": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "webpack -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
